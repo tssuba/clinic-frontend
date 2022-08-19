@@ -58,12 +58,13 @@ const Menu = () => {
                   {item.name}
                 </Link>
               ))}
-              <a
-                href="#"
+{/*              <a
+                // href={callToAction.href}
+                to={callToAction.href}
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
-              </a>
+                Book Appointment
+              </a>*/}
             </div>
           </nav>
         </div>

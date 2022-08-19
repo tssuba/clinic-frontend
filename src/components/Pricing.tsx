@@ -4,8 +4,9 @@ import config from '../config/index.json';
 
 const Pricing = () => {
   const { pricing } = config;
-  const { items, title } = pricing;
-  const [firstPlan, secondPlan, thirdPlan] = items;
+    const { title } = pricing;
+  // const { items, title } = pricing;
+  // const [firstPlan, secondPlan, thirdPlan] = items;
 
   return (
     <section className={`bg-background py-8`} id="pricing">
@@ -20,7 +21,7 @@ const Pricing = () => {
             className={`h-1 mx-auto bg-primary w-64 opacity-25 my-0 py-0 rounded-t`}
           ></div>
         </div>
-        <div
+{/*        <div
           className={`flex flex-col sm:flex-row justify-center pt-12 my-12 sm:my-4`}
         >
           <div
@@ -117,6 +118,18 @@ const Pricing = () => {
               </div>
             </div>
           </div>
+        </div>*/}
+        <div>
+        <iframe 
+          className={`container mx-auto px-2 pt-4 pb-12 text-primary`}
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3573.6935401946953!2d90.26877303488767!3d26.40108679999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37586039891768e7%3A0x9066a9240eb6c4a4!2sBright%20Smile%20Dental%20Clinic%20%2C%20Ward%20No%2006%20Kokrajhar!5e0!3m2!1sen!2sin!4v1660928150417!5m2!1sen!2sin" 
+          height="600" 
+          // style="border:0;"
+          // allowfullscreen=""
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade">
+        
+        </iframe>
         </div>
       </div>
     </section>

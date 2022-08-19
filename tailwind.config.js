@@ -17,10 +17,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#ec4755',
-        secondary: '#a12c34',
-        tertiary: '#99a0a3',
-        border: '#1a2e35',
+        primary: '#145DA0',
+        secondary: '#0C2D48',
+        tertiary: '#2E8BC0',
+        border: '#B1D4E0',
         background: '#ffffff',
       },
       animation: {

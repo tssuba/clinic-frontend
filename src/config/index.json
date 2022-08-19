@@ -1,20 +1,15 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/favicon.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Book Appointment",
       "href": "product"
     },
     {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
+      "name": "Find Us",
       "href": "pricing"
     },
     {
@@ -23,35 +18,39 @@
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Book Appointment",
+    "href": "product"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "High Quality Dental Care & Treatment: ",
+    "subtitle": "Bright Smile Dental Clinic",
+    "description": "Located in Kokrajhar, Assam, established by a team of two Dental practitioners backed through years of experience and accolades, we guarantee a good experience worth your time, and money. Book and appointment online, or call us!",
+    "img": "/assets/images/clinic.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Book an Appointment",
+      "href": "product"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "+91 090853 60160",
+      "href": "#"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Schedule Appointments Online",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Dr. Saroj Narzary | BDS (Gau)",
+        "name": "Dr. Saroj Narzary",
+        "description": "A longer description of one's experience and studies can go here to help the reader and customer understand.",
+        "img": "/assets/images/product1.jpg",
+        "link": "https://calendly.com/suba-tanmay/1-on-1-with-tanmay"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Dr. Krishna Das Narzary | MDS, Periodontics (SSUHS)",
+        "name": "Dr. Krishna Das Narzary",
+        "description": "A longer description of one's experience and studies can go here to help the reader and customer understand.",
+        "img": "/assets/images/product2.jpg",
+        "link": "https://calendly.com/suba-tanmay/1-on-1-with-tanmay"
       }
     ]
   },
@@ -83,7 +82,7 @@
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Find Us",
     "items": [
       {
         "name": "Free",
@@ -147,7 +146,7 @@
     "socialMedia": {
       "github": "https://github.com/issaafalkattan",
       "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "linkedin": "https://www.linkedin.com/in/tanmay-suba/"
     }
   }
 }

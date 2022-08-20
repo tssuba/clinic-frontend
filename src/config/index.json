@@ -14,7 +14,7 @@
     },
     {
       "name": "About",
-      "href": "about"
+      "href": "features"
     }
   ],
   "callToAction": {
@@ -56,28 +56,23 @@
   },
   "features": {
     "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "subtitle": "All the best care and technologies out there!",
+    "description": "Our qualified Doctors, Equipment, and knowledge will ensure a good expeience for you and your family!",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Quality Equipment",
+        "description": "The latest technology, on par with any modern clinic, guarantees the best quality treatment for all your needs.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Hospitality",
+        "description": "Our experienced staff will take care of all your needs and wants. Call us anytime for enquiries and requests!.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Hygiene",
+        "description": "Our clinic is sanitized and we ensure cleanliness for everyone.",
         "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
       }
     ]
   },

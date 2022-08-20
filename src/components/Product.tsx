@@ -47,7 +47,7 @@ const Product = () => {
               >
                 {firstItem?.title}
               </h3>
-              {/*<p className={`text-gray-600 mb-8`}>{firstItem?.description}</p>*/}
+              <p className={`text-gray-600 mb-8`}>{firstItem?.description}</p>
             </div>
           </div>
           <div className={`w-full sm:w-1/2 p-6 mt-10`}>
@@ -66,7 +66,7 @@ const Product = () => {
               >
                 {secondItem?.title}
               </h3>
-              {/*<p className={`text-gray-600 mb-8`}>{secondItem?.description}</p>*/}
+              <p className={`text-gray-600 mb-8`}>{secondItem?.description}</p>
             </div>
           </div>
         </div>

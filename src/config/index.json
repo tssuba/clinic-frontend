@@ -39,18 +39,18 @@
     "title": "Schedule Appointments Online",
     "items": [
       {
-        "title": "Dr. Saroj Narzary | BDS (Gau)",
+        "title": "Dr. Saroj Narzary | BDS (GU)",
         "name": "Dr. Saroj Narzary",
-        "description": "A longer description of one's experience and studies can go here to help the reader and customer understand.",
+        "description": "Certified in Aesthetic dentistry | Certified for Orthodontic treatment.",
         "img": "/assets/images/product1.jpg",
-        "link": "https://calendly.com/suba-tanmay/1-on-1-with-tanmay"
+        "link": "https://calendly.com/brightsmilekokrajhar/15min"
       },
       {
-        "title": "Dr. Krishna Das Narzary | MDS, Periodontics (SSUHS)",
+        "title": "Dr. Krishna Das Narzary | BDS, MDS, Periodontics (SSUHS)",
         "name": "Dr. Krishna Das Narzary",
-        "description": "A longer description of one's experience and studies can go here to help the reader and customer understand.",
+        "description": "Ex - Assistant Lecturer at Gov. Dental College.",
         "img": "/assets/images/product2.jpg",
-        "link": "https://calendly.com/suba-tanmay/1-on-1-with-tanmay"
+        "link": "https://calendly.com/brightsmilekokrajhar/15min"
       }
     ]
   },
